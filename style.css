@@ -1,0 +1,5 @@
+:root { --purple:#6c3ac2; --green:#18a558; }
+body { font-family: system-ui, Arial, sans-serif; margin: 2rem; }
+nav a { margin-right: .75rem; text-decoration: none; color: var(--purple); }
+nav a:hover { text-decoration: underline; }
+h1 { color: var(--green); }
